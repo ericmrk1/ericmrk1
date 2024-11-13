@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi there 👋 I'm currently enjoying life in Santa Cruz, CA. When I'm not working in technology, you can find me either getting lost in the local Redwoods or working on a variety of side-projects. 
+
+A few recent projects:
+- http://myrun.ai
+  
 
 <!--
 **ericmrk1/ericmrk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
