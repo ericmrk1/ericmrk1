@@ -1,4 +1,7 @@
-Hi there 👋 I'm currently enjoying life in Santa Cruz, CA. When I'm not working in technology, you can find me either getting lost in the local Redwoods or working on a variety of side-projects. 
+Hi there 👋 I'm currently enjoying life in Santa Cruz, CA. When I'm not working in technology, you can find me either getting lost in the local Redwoods or working on a variety of side-projects. While here, feel free to enjoy the trees:
+
+![redwood](https://github.com/user-attachments/assets/ec43cb4c-566c-427f-b79e-acff95b3bf1f)
+
 
 A few recent projects:
 - http://myrun.ai
