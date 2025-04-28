@@ -3,8 +3,8 @@ Hi there 👋 I'm currently enjoying life in Santa Cruz, CA. When I'm not workin
 ![redwood](https://github.com/user-attachments/assets/ec43cb4c-566c-427f-b79e-acff95b3bf1f)
 
 
-A few recent projects:
-- http://myrun.ai
+Find me here @ http://runnableproducts.com 
+
   
 
 <!--
